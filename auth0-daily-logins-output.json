@@ -1,0 +1,62 @@
+{
+  "jonalyn@reveelgroup.com": {
+    "loginCount": 12,
+    "minLoginDate": "2021-04-07T12:59:09.231-07:00",
+    "maxLoginDate": "2021-04-08T07:55:18.859-07:00"
+  },
+  "jared@reveelgroup.com": {
+    "loginCount": 1,
+    "minLoginDate": "2021-04-07T13:05:08.454-07:00",
+    "maxLoginDate": "2021-04-07T13:05:08.454-07:00"
+  },
+  "ksmall@whitelabs.com": {
+    "loginCount": 1,
+    "minLoginDate": "2021-04-07T14:24:22.667-07:00",
+    "maxLoginDate": "2021-04-07T14:24:22.667-07:00"
+  },
+  "kyle@reveelgroup.com": {
+    "loginCount": 3,
+    "minLoginDate": "2021-04-07T23:24:42.215-07:00",
+    "maxLoginDate": "2021-04-08T11:16:06.278-07:00"
+  },
+  "shiela@reveelgroup.com": {
+    "loginCount": 1,
+    "minLoginDate": "2021-04-08T06:29:21.529-07:00",
+    "maxLoginDate": "2021-04-08T06:29:21.529-07:00"
+  },
+  "jak@reveelgroup.com": {
+    "loginCount": 4,
+    "minLoginDate": "2021-04-08T08:29:34.121-07:00",
+    "maxLoginDate": "2021-04-08T09:24:25.517-07:00"
+  },
+  "dv@reveelgroup.com": {
+    "loginCount": 1,
+    "minLoginDate": "2021-04-08T08:38:57.714-07:00",
+    "maxLoginDate": "2021-04-08T08:38:57.714-07:00"
+  },
+  "jonathan+stripe@reveelgroup.com": {
+    "loginCount": 1,
+    "minLoginDate": "2021-04-08T09:12:18.000-07:00",
+    "maxLoginDate": "2021-04-08T09:12:18.000-07:00"
+  },
+  "jonathan@reveelgroup.com": {
+    "loginCount": 1,
+    "minLoginDate": "2021-04-08T09:12:34.963-07:00",
+    "maxLoginDate": "2021-04-08T09:12:34.963-07:00"
+  },
+  "omari@nisolo.com": {
+    "loginCount": 1,
+    "minLoginDate": "2021-04-08T10:27:08.365-07:00",
+    "maxLoginDate": "2021-04-08T10:27:08.365-07:00"
+  },
+  "steve@reveelgroup.com": {
+    "loginCount": 2,
+    "minLoginDate": "2021-04-08T10:31:25.043-07:00",
+    "maxLoginDate": "2021-04-08T10:31:28.742-07:00"
+  },
+  "jodie@reveelgroup.com": {
+    "loginCount": 2,
+    "minLoginDate": "2021-04-08T11:03:30.720-07:00",
+    "maxLoginDate": "2021-04-08T11:03:39.931-07:00"
+  }
+}
